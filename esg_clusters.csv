@@ -1,0 +1,44 @@
+industry,environment_score,social_score,governance_score,total_esg_score,cluster
+Utilities,551.0,357.4,282.3,1190.6,0
+Tobacco,510.0,327.0,328.0,1165.0,0
+Industrial Conglomerates,534.7,318.0,304.3,1157.0,0
+Packaging,536.3,323.0,296.8,1156.0,0
+Food Products,516.6,311.3,303.2,1131.1,0
+Distributors,525.0,277.0,307.7,1109.7,0
+Construction,495.3,306.2,281.2,1082.7,0
+Road & Rail,452.8,326.3,297.2,1076.3,0
+Building,476.7,305.1,292.4,1074.2,0
+Beverages,473.3,299.5,288.3,1061.0,0
+Chemicals,463.7,304.4,290.8,1058.9,0
+Machinery,459.6,313.7,274.8,1048.1,0
+Professional Services,435.0,312.4,300.4,1047.9,0
+Technology,438.1,307.9,285.3,1031.3,0
+Semiconductors,448.5,296.7,285.4,1030.6,0
+Logistics & Transportation,452.3,289.5,283.3,1025.2,0
+Insurance,425.3,295.7,291.4,1012.4,0
+Energy,467.6,278.6,267.4,1013.6,1
+Commercial Services & Supplies,419.4,301.3,275.1,995.9,1
+Real Estate,431.4,290.9,273.6,995.9,1
+Life Sciences Tools & Services,421.4,294.5,277.3,993.1,1
+Consumer products,384.9,285.7,275.0,945.6,1
+Textiles Apparel & Luxury Goods,382.1,280.0,282.3,944.4,1
+Health Care,374.5,287.4,276.8,938.8,1
+Communications,385.0,278.8,274.4,938.2,1
+Media,346.9,313.0,275.4,935.3,1
+Electrical Equipment,381.7,272.1,279.2,933.0,1
+Telecommunication,362.3,286.0,280.0,928.3,1
+Retail,380.3,275.0,263.3,918.6,1
+Financial Services,367.6,276.5,265.2,909.3,1
+Pharmaceuticals,360.1,269.7,274.0,903.7,1
+Banking,341.5,292.3,264.5,898.3,1
+Trading Companies & Distributors,332.8,302.4,250.0,885.2,1
+Biotechnology,306.5,268.9,291.5,866.9,1
+Marine,305.3,285.0,275.0,865.3,1
+Aerospace & Defense,355.0,254.4,252.0,861.4,2
+Automobiles,393.0,229.3,237.0,859.3,2
+Airlines,326.7,265.7,246.3,838.7,2
+Auto Components,338.3,248.3,246.7,833.3,2
+Hotels Restaurants & Leisure,322.3,265.8,244.3,832.4,2
+Metals & Mining,332.9,249.6,239.2,821.7,2
+Leisure Products,252.3,259.3,268.3,780.0,2
+Diversified Consumer Services,286.0,233.3,220.0,739.3,2
